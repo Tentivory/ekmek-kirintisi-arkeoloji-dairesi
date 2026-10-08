@@ -1,0 +1,6 @@
+Ornek komut:
+
+python kirinti.py --konum "laptop klavyesi, F ve G arasi" --adet 14 --nem orta
+
+Beklenen: Simit Federasyonu, Orta Kahvalti Cagi, klavye isgal hukmu.
+Ayni komut ayni tutanak numarasini verir. Arsiv boyle sever.
